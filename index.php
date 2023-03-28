@@ -325,7 +325,7 @@ include("header.php");
                         </div>
                         <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 g-4 mt-5">
                             <div class="teaser col">
-                              <a href='articles/valantic-invests-in-velox'>
+                              <a href='articles/article1'>
                                 <!-- <div class="image position-relative">
                                   <div class='overlay position-absolute'></div>
                                   <img src='assets/valantic_in_velox.jpg' alt='' />
