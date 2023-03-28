@@ -1,0 +1,489 @@
+<?php
+include("header.php");
+?>
+
+        <div id="body" class="container-fluid mt-5">
+            <main class="row mt-5">
+
+                <section id="build">
+                    <div class="typed-type">
+                        <span class="type build"></span> <span class="faster">&nbsp;faster.</span>
+                    </div>
+                    <h1 class="intro text-center my-5">
+                        Develop 10x faster in <span class="text-nowrap">Capital Markets</span> with<br class="d-none d-md-block" /> data-centric <span class="text-nowrap">low-code.</span>
+                    </h1>
+                    <img class="hero-image" src="assets/velox-hero.svg" alt="Velox Hero image" />
+                </section>
+
+                <section id="mission">
+                    <div class="container">
+                        <div class="row mb-4">
+                            <div class="col-12">
+                                <div class="supline">Our mission</div>
+                            </div>
+                        </div>
+                        <div class="row d-flex">
+                            <div class="col-12 col-lg-5">
+                                <div class="lead mb-5">
+                                    Enable front-office developers to build critical systems for the enterprise 10x faster.
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-7">
+                                <div class="">
+                                    <p class="important-text">
+                                        Our streaming application platform connects your fragmented data assets and API’s and enables rapid development of real-time web applications with a low-code development framework. 
+                                    </p>
+                                    <p class="important-text">
+                                        velox is a vital tool for enterprises who want to modernize their existing application infrastructure but don’t have time to start again.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="vision">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-12">
+                                <h2>Our Vision for Our Clients</h2>
+                                <div class="subline"></div>
+                            </div>
+                        </div>
+                        <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 g-5 mt-5">
+                            <div class="col">
+                                <div class="icon">
+                                    <img src="assets/velox_Icon 2_modernize systems.png" class="img-top" alt="Icon Technology">
+                                    <div class="body">
+                                        <h3 class="title">Imagine if your technology was a competitive weapon</h3>
+                                        <p class="text">That becomes the reason you win and keep clients rather than a limitation on your strategic agility.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="icon">
+                                    <img src="assets/velox_Icon 4_realtime interaction.png" class="img-top" alt="Icon Modernize Systems">
+                                    <div class="body">
+                                        <h3 class="title">Imagine if your technology could evolve with your business</h3>
+                                        <p class="text">And your tools could keep pace with the constant change of markets, regulation and client requirements.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="icon">
+                                    <img src="assets/velox_Icon 3_strategic agility.png" class="img-top" alt="Icon Strategic Agility">
+                                    <div class="body">
+                                        <h3 class="title">What if all your IP could be deployed in a browser-based UI?</h3>
+                                        <p class="text">And a user could pick and choose what they wanted as and when they needed it.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="icon">
+                                    <img src="assets/velox_Icon 6_web-based frontend.png" class="img-top" alt="Icon Realtime Interaction">
+                                    <div class="body">
+                                        <h3 class="title">Envision being able to incrementally modernize your existing system</h3>
+                                        <p class="text">Delivering results quickly and replacing disruptive rip-and-replace with a process that works around your schedule.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="icon">
+                                    <img src="assets/velox_Icon 5_Monetize_Data.png" class="img-top" alt="Icon Monetize Data">
+                                    <div class="body">
+                                        <h3 class="title">How profitable would you be if you could monetize all your data?</h3>
+                                        <p class="text">By having all the data in the right place at the right time and in the right format to deliver real data centricity.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="icon">
+                                    <img src="assets/velox_Icon 1_Technology.png" class="img-top" alt="Icon Web-Based Frontend">
+                                    <div class="body">
+                                        <h3 class="title">So that you spend more time adding value</h3>
+                                        <p class="text">Automate your manual workflows and maximize the percentage of your business that can be managed on an exception basis.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                
+                <section id="team">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-12 col-lg-6">
+                                <h2 class="headline">The Team</h2>
+                                <div class="important-text">Expert Leadership Team From Both the IB Technology Field and Vendors</div>
+                            </div>
+                        </div>
+                        <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 g-4 mt-5">
+                            <div class="col">
+                                <div class="person">
+                                    <div class="">
+                                        <img src="assets/JonButler@3x.png" class="rounded-circle" alt="Jon Butler">
+                                        <div class="title">Co-founder</div>
+                                        <div class="name">Jon Butler</div>
+                                    </div>
+                                    <div class="description border-top py-4 my-4">
+                                        Jon began his career building Index Arbitrage systems in the late 90’s. A former Goldman Sachs MD, he managed Equity Tech at GS and Markets Tech at RBS
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="person">
+                                    <div class="">
+                                        <img src="assets/JasonYan@3x.png" class="rounded-circle" alt="Jason Yan">
+                                        <div class="title">Co-founder</div>
+                                        <div class="name">Jason Yan</div>
+                                    </div>
+                                    <div class="description border-top py-4 my-4">
+                                        Jason spent 20 years building mission critical trading systems. He was a technology fellow at GS and the Head of Trading Tech at BAML
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="person">
+                                    <div class="">
+                                        <img src="assets/gj3x.png" class="rounded-circle" alt="Govind Jajjoo">
+                                        <div class="title">Co-Founder & CTO</div>
+                                        <div class="name">Govind Jajoo</div>
+                                    </div>
+                                    <div class="description border-top py-4 my-4">
+                                        Govind has extensive software development & architecture experience, building global trading systems at BAML and UBS. He started coding professionally at the age of 15 as a Software Engineer intern at Microsoft and completed his MS in CS at the age of 18
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="person">
+                                    <div class="">
+                                        <img src="assets/Alison@3x.png" class="rounded-circle" alt="Alison Hood">
+                                        <div class="title">Chief Operating Officer</div>
+                                        <div class="name">Alison Hood</div>
+                                    </div>
+                                    <div class="description border-top py-4 my-4">
+                                        Alison has 30 years of global experience in technology business management and transformational change across the financial services industry
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="person">
+                                    <div class="">
+                                        <img src="assets/Russel@3x.png" class="rounded-circle" alt="Russell Barton">
+                                        <div class="title">&nbsp;</div>
+                                        <div class="name">Russell Barton</div>
+                                    </div>
+                                    <div class="description border-top py-4 my-4">
+                                        In memory of Russell Barton, colleague, friend, and thoroughly decent chap who passed away in November 2021
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="person">
+                                    <div class="">
+                                        <img src="assets/xinchao3x.png" class="rounded-circle" alt="Xinchao Zhang">
+                                        <div class="title">Principal Software Engineer</div>
+                                        <div class="name">Xinchao Zhang</div>
+                                    </div>
+                                    <div class="description border-top py-4 my-4">
+                                        Xinchao has extensive hands-on experience with designing and building global trading platforms. He started in UBS and moved on to Bank of America Merrill Lynch, working on the entire front-to-back stack of their core cash/portfolio OMS systems
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="person">
+                                    <div class="">
+                                        <img src="assets/SteveGrob@3x.png" class="rounded-circle" alt="Steve Grob">
+                                        <div class="title">Strategic Advisor</div>
+                                        <div class="name">Steve Grob</div>
+                                    </div>
+                                    <div class="description border-top py-4 my-4">
+                                        Steve has spent nearly his entire working career in capital markets with 15 years as director of group strategy at Fidessa
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="person">
+                                    <div class="">
+                                        <img src="assets/AndrewBanhidi@3x.png" class="rounded-circle" alt="Andrew Banhidi">
+                                        <div class="title">Strategic Advisor</div>
+                                        <div class="name">Andrew Banhidi</div>
+                                    </div>
+                                    <div class="description border-top py-4 my-4">
+                                        Andrew has over 30 years experience in the capital markets as CTO and senior technology executive at GS, BAML and Instinet
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                
+                <section id="insights">
+                  <div class="container">
+                        <div class="row">
+                            <div class="col-12 col-lg-6">
+                                <h2 class="headline">Insights</h2>
+                                <div class="important-text">VELOX TECHNOLOGY</div>
+                            </div>
+                        </div>
+                        <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 g-4 mt-5">
+                            
+                          
+                            <div class="teaser col">
+                              <a href='articles/can-low-code-principles-be-applied-to-sales-trading-technology'>
+                                <div class="image position-relative">
+                                  <div class='overlay position-absolute'></div>
+                                  <img src='assets/Low-code.jpg' alt='' /> 
+                                </div>
+                                <div class="meta d-flex justify-content-between my-3">
+                                  <div class='author'>Article by Jon Butler</div>
+                                  <div class='date'>30 Jun 2021</div>
+                                </div>
+                                <h3 class="headline">Can Low Code Principles Be Applied To Sales & Trading Technology?</h3>
+                                <div class="excerpt-text">Addressing your repetitive non-functional requirements with a 'low-code' framework designed for professional developers.</div>
+                                <div class='d-flex justify-content-end mt-3'>
+                                  <div class='readmore'>Read More</div>
+                                </div>
+                              </a>
+                            </div>
+                          
+                          
+                          
+                            <div class="teaser col">
+                              <a href='articles/modernize-your-way-to-a-next-generation-technology-capability'>
+                                <div class="image position-relative">
+                                  <div class='overlay position-absolute'></div>
+                                  <img src='assets/Modernize.jpg' alt='' /> 
+                                </div>
+                                <div class="meta d-flex justify-content-between my-3">
+                                  <div class='author'>Article by Jon Butler</div>
+                                  <div class='date'>31 Mar 2021</div>
+                                </div>
+                                <h3 class="headline">Modernize your way to a next generation technology capability.</h3>
+                                <div class="excerpt-text">Why the Cloud and Browser UIs are key to material gains in efficiency and modernization of Capital Markets technology.</div>
+                                <div class='d-flex justify-content-end mt-3'>
+                                  <div class='readmore'>Read More</div>
+                                </div>
+                              </a>
+                            </div>
+                          
+                          
+                          
+                            <div class="teaser col">
+                              <a href='articles/what-investment-banking-has-taught-me-about-building-a-fintech'>
+                                <div class="image position-relative">
+                                  <div class='overlay position-absolute'></div>
+                                  <img src='assets/Building-a-tech-startup_neu.jpg' alt='' /> 
+                                </div>
+                                <div class="meta d-flex justify-content-between my-3">
+                                  <div class='author'>Article by Jon Butler</div>
+                                  <div class='date'>28 January 2021</div>
+                                </div>
+                                <h3 class="headline">What Investment Banking Has Taught Me About Building a Fintech.</h3>
+                                <div class="excerpt-text">The Top 10 lessons that 20 years of building Capital Markets technology has taught me about creating a technology startup.</div>
+                                <div class='d-flex justify-content-end mt-3'>
+                                  <div class='readmore'>Read More</div>
+                                </div>
+                              </a>
+                            </div>
+                          
+                          
+                          
+                          <div class="teaser col">
+                            <a href='articles/how-front-office-technology-might-look-in-10-years-from-now'>
+                              <div class="image position-relative">
+                                <div class='overlay position-absolute'></div>
+                                <img src='assets/Front-office-technology.jpg' alt='' /> 
+                              </div>
+                              <div class="meta d-flex justify-content-between my-3">
+                                <div class='author'>Article by Jon Butler</div>
+                                <div class='date'>29 Oct 2020</div>
+                              </div>
+                              <h3 class="headline">How Front Office Technology Might Look in 10 Years' From Now.</h3>
+                              <div class="excerpt-text">Now is the time to learn from the past, to set our ambitions high, and take a 'moon shot' in Capital Markets innovation.</div>
+                              <div class='d-flex justify-content-end mt-3'>
+                                <div class='readmore'>Read More</div>
+                              </div>
+                            </a>
+                          </div>
+                          
+                          
+                          
+                          <div class="teaser col">
+                              <a href='articles/jon-butler-is-a-guest-of-the-waters-innovation-exchange-program'>
+                                <div class="image position-relative">
+                                  <div class='overlay position-absolute video'></div>
+                                  <img src='assets/Waterstechnology_VIDEO.jpg' alt='' /> 
+                                </div>
+                                <div class="meta d-flex justify-content-between my-3">
+                                  <div class='author'>Waters Tech Innovation Exchange</div>
+                                  <div class='date'>25 Sep 2020</div>
+                                </div>
+                                <h3 class="headline">Jon Butler is a guest of the Waters Innovation Exchange Program.</h3>
+                                <div class="excerpt-text">Jon shares the velox mission: to enable front office developers to build critical, real-time applications at lightning speed.</div>
+                                <div class='d-flex justify-content-end mt-3'>
+                                  <div class='readmore'>Watch Now</div>
+                                </div>
+                              </a>
+                          </div>
+                          
+                          
+                            <div class="teaser col">
+                              <a href='articles/jon-butler-ceo-of-velox-is-a-guest-of-the-fintech-focus-tv-team'>
+                                <div class="image position-relative">
+                                  <div class='overlay position-absolute video'></div>
+                                  <img src='assets/Fintec-Intervies-VIDEO.jpg' alt='' /> 
+                                </div>
+                                <div class="meta d-flex justify-content-between my-3">
+                                  <div class='author'>Fintech Focus TV</div>
+                                  <div class='date'>25 Sep 2020</div>
+                                </div>
+                                <h3 class="headline">Jon Butler, CEO of velox is a guest of the FinTech Focus TV team.</h3>
+                                <div class="excerpt-text">Jon reflects on his experience in Capital Markets and shows much the Fintech space is revolutionising the trading experience.</div>
+                                <div class='d-flex justify-content-end mt-3'>
+                                  <div class='readmore'>Watch Now</div>
+                                </div>
+                              </a>
+                            </div>
+                          
+                          
+                          <div class="showmore-show">
+                            <div class="teaser col">
+                              <a href='articles/predicting-the-near-term-future-of-front-office-technology'>
+                                <div class="image position-relative">
+                                  <div class='overlay position-absolute video'></div>
+                                  <img src='assets/Future-of-fron-office-technology-VIDEO.jpg' alt='' /> 
+                                </div>
+                                <div class="meta d-flex justify-content-between my-3">
+                                  <div class='author'>Fintech Files Podcast</div>
+                                  <div class='date'>9 Sep 2020</div>
+                                </div>
+                                <h3 class="headline">Predicting The Near-term Future of Front Office Technology.</h3>
+                                <div class="excerpt-text">Jon Butler discusses the creation of velox, and why the time for a new approach in trading and sales technology is now.</div>
+                                <div class='d-flex justify-content-end mt-3'>
+                                  <div class='readmore'>Watch Now</div>
+                                </div>
+                              </a>
+                            </div>
+                          </div>
+                          
+                          <div class="showmore-show">
+                            <div class="teaser col">
+                              <a href='articles/why-do-systems-become-legacy'>
+                                <div class="image position-relative">
+                                  <div class='overlay position-absolute'></div>
+                                  <img src='assets/Why-systems-become-legacy.jpg' alt='' /> 
+                                </div>
+                                <div class="meta d-flex justify-content-between my-3">
+                                  <div class='author'>Article by Jon Butler</div>
+                                  <div class='date'>30 Jun 2020</div>
+                                </div>
+                                <h3 class="headline">Why Do Systems Become Legacy? It’s More Avoidable Than You Think.</h3>
+                                <div class="excerpt-text">Why is it that some technology doesn't stand the test of time, and how to mitigate or avoid that situation in the future?</div>
+                                <div class='d-flex justify-content-end mt-3'>
+                                  <div class='readmore'>Read More</div>
+                                </div>
+                              </a>
+                            </div>
+                          </div>
+                          
+                          <div class="showmore-show">
+                            <div class="teaser col">
+                              <a href='articles/can-the-global-pandemic-really-rescue-the-boiling-frog'>
+                                <div class="image position-relative">
+                                  <div class='overlay position-absolute'></div>
+                                  <img src='assets/the-Boiling-frog.jpg' alt='' /> 
+                                </div>
+                                <div class="meta d-flex justify-content-between my-3">
+                                  <div class='author'>Article by Jon Butler</div>
+                                  <div class='date'>31 Mar 2020</div>
+                                </div>
+                                <h3 class="headline">Can the Global Pandemic Really Rescue the Boiling Frog?</h3>
+                                <div class="excerpt-text">There is a more gentle way to modernize Capital Markets technology rather than the trauma and risk of 'rip and replace'.</div>
+                                <div class='d-flex justify-content-end mt-3'>
+                                  <div class='readmore'>Read More</div>
+                                </div>
+                              </a>
+                            </div>
+                          </div>
+                          
+                          <div class="showmore-show">
+                            <div class="teaser col">
+                              <a href='articles/why-are-trading-desks-stacked-with-screens-and-does-is-matter'>
+                                <div class="image position-relative">
+                                  <div class='overlay position-absolute'></div>
+                                  <img src='assets/trading-floor.jpg' alt='' /> 
+                                </div>
+                                <div class="meta d-flex justify-content-between my-3">
+                                  <div class='author'>Article by Jon Butler</div>
+                                  <div class='date'>31 Jan 2020</div>
+                                </div>
+                                <h3 class="headline">Why Are Trading Desks Stacked With Screens and does is matter?</h3>
+                                <div class="excerpt-text">The 'why?' behind the past, the present and the future of trading desk real-estate (do they really need all those screens?)</div>
+                                <div class='d-flex justify-content-end mt-3'>
+                                  <div class='readmore'>Read More</div>
+                                </div>
+                              </a>
+                            </div>
+                          </div>
+                          
+                          <div class="showmore-show">
+                            <div class="teaser col">
+                              <a href='articles/identifying-the-data-and-tools-needed-to-turbo-charge-innovation'>
+                                <div class="image position-relative">
+                                  <div class='overlay position-absolute'></div>
+                                  <img src='assets/Turbo-charging.jpg' alt='' /> 
+                                </div>
+                                <div class="meta d-flex justify-content-between my-3">
+                                  <div class='author'>Article by Jon Butler</div>
+                                  <div class='date'>28 Nov 2019</div>
+                                </div>
+                                <h3 class="headline">Identifying the data and tools needed to turbo-charge Innovation.</h3>
+                                <div class="excerpt-text">Understanding the historical reasons for many of the underlying challenges to innovation in Capital Markets technology.</div>
+                                <div class='d-flex justify-content-end mt-3'>
+                                  <div class='readmore'>Read More</div>
+                                </div>
+                              </a>
+                            </div>
+                          </div>
+                            
+                          
+                          <div class="showmore-show">
+                            <div class="teaser col">
+                              <a href='articles/etfs-capital-funds-velox-2.5million-to-accelerate-growth-plans'>
+                                <div class="image position-relative">
+                                  <div class='overlay position-absolute'></div>
+                                  <img src='assets/EFTS_Zeichenflache1.jpg' alt='' /> 
+                                </div>
+                                <div class="meta d-flex justify-content-between my-3">
+                                  <div class='author'>Article by Jon Butler</div>
+                                  <div class='date'>23 June 2019</div>
+                                </div>
+                                <h3 class="headline">ETFS Capital funds velox $2.5million to accelerate growth plans.</h3>
+                                <div class="excerpt-text">velox fin tech, the data-centric low-code platform for developers, secures funding from ETFS Capital to accelerate growth.</div>
+                                <div class='d-flex justify-content-end mt-3'>
+                                  <div class='readmore'>Read More</div>
+                                </div>
+                              </a>
+                            </div>
+                          </div>
+                            
+                          
+                        </div>
+                    
+                    </div>
+                  
+                    <div class="container mt-5">
+                      <div class="row text-center">
+                            <a href="#" class="showmore">
+                                <div class="cta shadow">Load more</div>
+                            </a>
+                      </div>
+                    </div>
+
+                </section>
+
+
+<?php
+include("footer.php");
+?>
